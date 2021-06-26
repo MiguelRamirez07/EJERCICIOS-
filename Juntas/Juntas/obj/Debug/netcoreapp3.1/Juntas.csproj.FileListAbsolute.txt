@@ -1,0 +1,13 @@
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.csprojAssemblyReference.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.AssemblyInfoInputs.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.AssemblyInfo.cs
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.exe
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.deps.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.runtimeconfig.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.runtimeconfig.dev.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.dll
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\bin\Debug\netcoreapp3.1\Juntas.pdb
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.dll
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.pdb
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Juntas\Juntas\obj\Debug\netcoreapp3.1\Juntas.genruntimeconfig.cache
