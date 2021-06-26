@@ -1,0 +1,13 @@
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.exe
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.deps.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.runtimeconfig.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.runtimeconfig.dev.json
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.dll
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\bin\Debug\netcoreapp3.1\Cadena.pdb
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.csprojAssemblyReference.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.AssemblyInfoInputs.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.AssemblyInfo.cs
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.dll
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.pdb
+C:\Users\Jonathan Ramirez\Desktop\Aplicaciones--main\Aplicaciones--main\Cadena\Cadena\obj\Debug\netcoreapp3.1\Cadena.genruntimeconfig.cache
